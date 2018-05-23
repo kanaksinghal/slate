@@ -291,7 +291,7 @@ Creates a new user object via email by creating a token that will allow user to 
 
 ### HTTPS Request
 
-<code style="background:#4CAF50;">POST</code> <code style="background:#E8F5E9;">https://[GOODCOP_URL]/v1/signup/magiclink</code>
+<code style="background:#4CAF50;">POST</code> <code style="background:#E8F5E9;">https://[GOODCOP_URL]/v1/user/magiclink</code>
 
 ### Request Body
 
